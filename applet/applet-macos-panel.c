@@ -5,7 +5,7 @@
 char **optionsProcess() {
     /**
      * Retorna apenas o array para consulta. Só pode ser chamado como parâmetro para função.
-     * Aqui pode ser adicionado mais opções de programas a serem abertos. Lembre de adicionar também na função callLabels o conjunto de 3 strings para ser chamado na abertura da janela.
+     * Aqui pode ser adicionado mais opções de programas a serem abertos. Lembre-se de adicionar também na função callLabels o conjunto de 3 strings para ser chamado na abertura da janela.
      */
     static char *options[] =
     {
