@@ -8,6 +8,19 @@ Porém, diferente do macOS, isso aqui é apenas visual (não funcional). Chega d
 
 ---
 
+## 🖼️ Exemplos Visuais
+
+### Tela 1
+![Tela 1](docs/images/tela-1.png)
+
+### Tela 2
+![Tela 2](docs/images/tela-2.png)
+
+### Tela 3
+![Tela 3](docs/images/tela-3.png)
+
+---
+
 ## 📦 Dependências
 
 Para o script funcionar corretamente:
